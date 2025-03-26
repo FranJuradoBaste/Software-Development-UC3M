@@ -70,7 +70,7 @@ transactionManagementException.py: Manages custom exceptions.
 
 ---
 
-👨‍💻 Authors
+👨‍💻 Author
 
 [Fran Jurado Basté]
 Software Development - UC3M
